@@ -66,3 +66,6 @@ I'm looking for a solution (basically lock same type for sequence arguments) but
 		
 		// Binary
 		var y = (a & b & c)
+		
+##License
+This code is distributed under the terms and conditions of the [MIT license](LICENSE). 
